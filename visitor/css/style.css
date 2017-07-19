@@ -1,0 +1,180 @@
+
+body 
+{
+font: normal small Arial, Helvetica, sans-serif;
+color: #482C00;
+text-align:justify;
+font-size:11px;
+margin-top:0px;
+margin-left:0px;
+margin-right:0px;
+margin-bottom:10px;
+
+background-image: url(../visitorimage/bg-body.png);
+background-position:center;
+
+}
+
+#container
+{
+ position:relative;
+    background:url("") no-repeat scroll center center #fff;
+    width:1000px;
+    height:100%;
+    border:1px #A4A4A4 solid;
+    margin:1px auto;
+    padding:5px 0;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+	
+	}
+	
+	#header
+{width:100%;
+background-color:#ffffff;
+height:100px;}
+#left
+{width:48%;
+height:100px;
+text-align:left;
+float:left;}
+#right
+{width:40%;
+height:100px;
+float: right;}
+
+#logo
+{height:100px;}
+.name
+{font-size:29px;
+color: #482C00;
+font-family:"Blackadder ITC";
+padding-top:20px;
+padding-left:15px;}
+.tag
+{padding-left:17px;
+font-size:11px;
+text-transform:capitalize;
+color:#B3B3B3;
+background-image: url(../image/templatemo_hd_01.jpg); background-repeat:repeat;
+height:20px;
+line-height:20px;
+width:23	0px;
+font-weight:bold;}
+
+#login{
+font-size:12px;
+color: #006666;
+font-family:"trebuchet ms";
+text-transform:uppercase;
+padding-top:30px;
+padding-left:0px;
+
+}
+#middal1{
+height:420px;
+width:670px;
+border:1px solid #006666 ; background-color:#FFFFFF ;  
+}
+.heading
+{height:36px;
+font-size:15px;
+color:#560001;
+text-align:left;
+line-height:31px;
+}
+.toplinks1
+{color:#ffffff;
+background-image: url(../visitorimage/templatemo_hd_01.jpg);
+font-family:"trebuchet ms";
+float:left;
+font-weight:bold;
+font-size:11px;
+}
+
+.toplinks1 a
+{color: #FFFFFF;
+text-decoration:none;}
+.toplinks1 a:hover
+{color: #FFFFFF ;
+text-decoration:none;}
+
+.toplinks
+{color:#ffffff;
+font-family:"trebuchet ms";
+font-weight:bold;
+font-size:11px;
+}
+
+.toplinks a
+{color: #482C00;
+text-decoration:inherit;}
+.toplinks a:hover
+{color: #FF6600 ;
+text-decoration:none;}
+
+
+#top{width:100%;margin-top: 25px; height:60px; border:1px solid #BBBBBB; padding:10px;}
+#tutorialHead{width:100%;margin-top: 25px; height:70px; border:1px solid #BBBBBB; padding:10px;}
+.tutorialTitle{width:70%;float:center;}
+.tutorialLink{width:20%;float:left;}
+.logout{width:9%;float:right-top;}
+.createnew{width:9%;float:left;}
+
+.tag
+{padding-left:17px;
+font-size:11px;
+text-transform:capitalize;
+color:#B3B3B3;
+background-image: url(../visitorimage/templatemo_hd_01.jpg) ; background-repeat:repeat;
+height:20px;
+line-height:20px;
+width:23	0px;
+font-weight:bold;}
+
+#wrapper{
+width:100%;height:100%; border:0px solid #BBBBBB; 
+}
+#wrapper .button{background: -moz-linear-gradient(center top , #EDEDED 5%, #DFDFDF 100%) repeat scroll 0 0 #EDEDED;
+    border: 1px solid #DCDCDC;border-radius: 6px 6px 6px 6px;box-shadow: 0 1px 0 0 #FFFFFF inset;
+    color: #777777;padding: 6px 9px; text-shadow: 1px 1px 0 #FFFFFF;margin-top: 10px;}
+.login_box{ border:1px solid #BBBBBB; padding:25px; margin-top:35px;}
+
+
+
+
+#errorMessage{color:red !important ; padding:10px;}
+.user_intro{padding:50px; margin-left:30%; margin-top:50px;}
+#fotter{clear:both;text-align:right;font-size:10px;color: #222; border:1px solid #BBBBBB; padding:10px;width:100%;margin-top: 25px;}
+.nav1{float:left;width:100%;padding:0;margin:0;list-style-type:none;}
+.a1{float:left;width:6em;text-decoration:none;color:white;padding:0.2em 0.6em;border-right:1px solid white;}
+p{color:#FF0000;}
+#newspaper-a
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 11px;
+	margin: ;
+	width:100px;
+	text-align:center;
+	border-collapse: collapse;
+	border: 1px solid #eee;
+}
+#newspaper-a th
+{
+	
+	font-weight: normal;
+	font-size: 12px;
+	border-bottom: 1px solid #eee;
+}
+#newspaper-a td
+{ padding:5px;
+ 
+	
+}
+#newspaper-a tbody tr:hover td
+{
+	color: #000000;
+	background: #9CBF7D;
+}
+

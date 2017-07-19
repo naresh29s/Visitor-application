@@ -1,0 +1,25 @@
+Pass_ID	Date	Time_in	Time_out	Name	Mobile_No	DeptName	Cont_Person	Company	Status
+0004	2013-12-11	11:31:44	00:00:00	g gg g	12345	k	naresh	g, g	WAITING
+0008	2013-12-23	06:41:29	00:00:00	kkkk k kk	909	k	umesh	kk, k	WAITING
+0008	2013-12-23	06:41:14	00:00:00	kkkkk kk k	909	kk	naresh	k, kkk	WAITING
+0008	2013-12-23	06:40:50	00:00:00	kkkkk kk k	909	kk	naresh	k, kkk	WAITING
+0008	2013-12-23	06:35:05	00:00:00	hhhkk kk k	909	kk	naresh	kk, kk	WAITING
+0008	2013-12-23	06:34:45	00:00:00	hhhkk kk k	909	kk	naresh	kk, kk	WAITING
+0008	2013-12-23	11:48:05	00:00:00	hhhkk kk k	909	kk	naresh	kk, kk	WAITING
+0007	2013-12-23	11:45:39	00:00:00	yyyyyy y y	1234567	yyy	naresh	y, y	WAITING
+0009	2013-12-23	06:42:50	00:00:00	jj j jj	9990909	j	naresh	jj, j	WAITING
+0005	2013-12-23	11:33:47	00:00:00	hhhhhhh hhhhhhh hhhhhhhhhh	1234567890	it	naresh	medianIT, andderi	WAITING
+0004	2013-12-23	11:30:02	00:00:00	g gg g	12345	gg	naresh	g, g	WAITING
+0010	2013-12-23	06:45:08	00:00:00	eeee k kk	98989090	kk	naresh	k, kk	WAITING
+0008	2013-12-23	06:42:18	00:00:00	kkkk k kk	909	k	umesh	kk, k	WAITING
+0002	2013-12-26	12:30:20	00:00:00	u uu u	123	u	naresh	uu, u	Dont_allow
+0003	2013-12-26	12:40:21	00:00:00	ffff f f	454545454	f	naresh	f, f	Dont_allow
+0012	2013-12-27	07:06:30	00:00:00	yu u uu	9989898	u	umesh	u, uu	WAITING
+0012	2013-12-27	07:04:45	00:00:00	yu u uu	9989898	u	umesh	u, uu	WAITING
+0011	2013-12-27	06:47:49	00:00:00	rrrr r h	9099	h	naresh	h, h	WAITING
+0006	2013-12-27	11:41:11	00:00:00	j j jj	98989898	j	naresh	jj, j	WAITING
+0013	2013-12-28	06:52:32	00:00:00	j j j	123321	j	naresh	jj, j	IN
+0014	2013-12-30	08:58:47	09:00:14	kkk k k	9898989898	k	naresh	k, kk	OUT
+0015	2013-12-30	09:02:10	00:00:00	,kkk sss 	787		naresh	, 	WAITING
+0016	2013-12-31	03:48:20	00:00:00	hhhh hh h	997677676	h	naresh	h, h	WAITING
+0017	2013-12-31	04:03:02	00:00:00	jhjhjh jhj hj	8787878	hj	naresh	hj, hjh	WAITING

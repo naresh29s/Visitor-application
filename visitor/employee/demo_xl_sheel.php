@@ -1,0 +1,30 @@
+<?php
+header("Content-type: application/xls");
+header('Content-disposition: attachment; filename="upload_bulk_data.xls"');
+echo "v_id";echo "\t";
+echo "sname";echo "\t";
+echo "fname";echo "\t";
+echo "lname";echo "\t";
+echo "cont_no";echo "\t";
+echo "deptname";echo "\t";
+echo "cont_person";echo "\t";
+echo "frmdate";echo "\t";
+echo "todate";echo "\t";
+echo "vcompname";echo "\t";
+echo "vcomadd";echo "\t";                     
+echo "cont_no_person";echo "\t";                     
+echo "reason";echo "\n";                                          
+echo "0001";echo "\t";
+echo "Sanodariya";echo "\t";
+echo "Namesh";echo "\t";
+echo "Naranbhai";echo "\t";
+echo "9999999999";echo "\t";
+echo "IT";echo "\t";
+echo "MR.Haresh patel";echo "\t";
+echo "2013/04/25";echo "\t";
+echo "2013/05/16";echo "\t";
+echo "Median IT solutions";echo "\t";
+echo "A-204,MIDC,Andheri-e";echo "\t";                     
+echo "989820098";echo "\t";                     
+echo "persional";echo "\n"; 
+?>

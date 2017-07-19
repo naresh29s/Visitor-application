@@ -1,0 +1,19 @@
+Pass_ID	Date	Time_in	Time_out	Name	Mobile_No	DeptName	Cont_Person	Company	Status
+0006	2013-10-02	10:56:49	00:00:00	h h h	9821268164	Purchase	naresh	ww, www	IN
+0018	2013-10-02	10:57:54	00:00:00	j jj j	658485	j	naresh	jj, j	IN
+0019	2013-10-02	11:54:13	00:00:00	naresh narestr naresgh naresresh naresh	982128164	hjhjhhjkhjkhjk	naresh	jh, jh	WAITING
+0020	2013-10-02	11:54:48	00:00:00	j j jj	87988794	j	naresh	j, jj	WAITING
+0021	2013-10-02	11:57:18	00:00:00	j jj j	8654857	j	naresh	j, j	WAITING
+0022	2013-10-02	11:59:20	00:00:00	l l l	187	ll	naresh	l, l	WAITING
+0023	2013-10-02	12:18:37	00:00:00	jhh hj hj	8798	hj	naresh	jhj, j	WAITING
+0024	2013-10-02	12:19:36	00:00:00	k kk k	488974	k	naresh	kk, k	WAITING
+0025	2013-10-02	12:21:52	00:00:00	kk kk k	48424	k	naresh	kk, k	WAITING
+0026	2013-10-02	12:23:26	00:00:00	l ll l	857856	l	naresh	l, ll	WAITING
+0027	2013-10-02	12:30:41	00:00:00	jjjjj jj j	2485	j	naresh	j, jjj	WAITING
+0028	2013-10-02	14:28:18	00:00:00	kkkkkk k kk	78795	k	naresh	k, kk	DONT_ALLOW
+0029	2013-10-02	14:30:16	00:00:00	lkl kl kl	858	lkl	naresh	kl, kl	WAITING
+0030	2013-10-02	14:31:47	00:00:00	kllk lk lkkl	78545	kl	naresh	kl, kl	WAITING
+0031	2013-10-02	14:33:32	00:00:00	naresh h h	986523	h	naresh	h, hh	WAITING
+0032	2013-10-02	14:44:07	00:00:00	jjjjj jj jj	15865456	j	naresh	j, jj	WAITING
+0033	2013-10-02	14:45:46	00:00:00	j jj j	545	j	naresh	jj, j	WAITING
+0034	2013-10-02	14:46:51	00:00:00	jghj jhg jhj	5487	hjk	naresh	hj, hj	WAITING

@@ -1,0 +1,14 @@
+
+@font-face {
+	font-family: 'Play';
+	src: url('fonts/C39HrP24DhTt.eot');
+	src: local('?'), url('fonts/C39HrP24DhTt.woff') format('woff'), url('fonts/C39HrP24DhTt.ttf') format('truetype'), url('fonts/C39HrP24DhTt.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.logo {
+	
+	
+	font: 40px/30px 'Play'; 
+	}
